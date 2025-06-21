@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Nandkishor</h1>
 <h3 align="center">I am Web Devloper</h3>
-<div style="background-image: url('https://i.pinimg.com/originals/57/2c/19/572c1921557952edc061196b83b5b0d8.gif'); background-color: red; background-blend-mode: screen;">
-  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/57/2c/19/572c1921557952edc061196b83b5b0d8.gif" style="mix-blend-mode: multiply;">
-</div>
+
+  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/57/2c/19/572c1921557952edc061196b83b5b0d8.gif" style="mix-blend-mode: screen;">
+
 
 - 🔭 I’m currently working on **Shoping Website**
 
