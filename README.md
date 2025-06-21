@@ -30,9 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandkishor22&show_icons=true&locale=en&layout=compact" alt="nandkishor22" style="width: 50%; height: 50%; object-fit: contain; display: block; margin: auto;" />
 </p>
 
-<p style="display: inline-block; width: 20px; height: 20px; overflow: hidden; vertical-align: middle; margin-right: 3px;">
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nandkishor22&show_icons=true&locale=en" alt="nandkishor22" style="width: 50%; height: 50%; object-fit: contain; display: block; margin: auto;" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nandkishor22&show_icons=true&locale=en" alt="nandkishor22" style="width: 50%; height: 50%; object-fit: contain; display: block; margin: auto;" />
 
 <p style="display: inline-block; width: 20px; height: 20px; overflow: hidden; vertical-align: middle;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandkishor22&" alt="nandkishor22" style="width: 50%; height: 50%; object-fit: contain; display: block; margin: auto;" />
