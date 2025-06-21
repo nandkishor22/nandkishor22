@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Oprating System,MySQL,AIML,Data Analysis,**
 
-- 👨‍💻 All of my projects are available at [https://nandkishor22.github.io/Myprofile/](https://nandkishor22.github.io/Myprofile/)
+- 👨‍💻 All of my projects are available at [https://nandkishor22.github.io/Myprofile/]<a href="https://github.com/nandkishor22" target="blank">nandkishor22</a>
 
-- 📝 I regularly active on Instagram [https://www.instagram.com/nandkishor__22_/](https://www.instagram.com/nandkishor__22_/)
+- 📝 I regularly active on Instagram [https://www.instagram.com/nandkishor__22_/]<a href="https://instagram.com/https://www.instagram.com/nandkishor__22_/" target="blank">nandkishor__22_</a>
 
 - 💬 Ask me about **Web devlopment,Problem Solving**
 
-- 📫 How to reach me **malinandkishor@445gmail.com**
+- 📫 How to reach me **malinandkishor445@gmail.com**
 
 - ⚡ Fun fact **I am friendly person**
 
