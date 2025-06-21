@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nandkishor-mali-17b967326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandkishor-mali-17b967326/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/nandkishor__22_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nandkishor__22_/" height="30" width="40" /></a>
-<a href="https://wa.me/8421572075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://www.instagram.com/nandkishor__22_/" height="30" width="40" /></a>
+<a href="https://wa.me/8421572075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/8421572075" height="30" width="40" /></a><a href="https://nandkishor22.github.io/Myprofile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="https://nandkishor22.github.io/Myprofile/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
