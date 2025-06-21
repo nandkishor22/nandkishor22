@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nandkishor</h1>
 <h3 align="center">I am Web Devloper</h3>
-<img align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 - 🔭 I’m currently working on **Shoping Website**
 
 - 🌱 I’m currently learning **Oprating System,MySQL,AIML,Data Analysis,**
