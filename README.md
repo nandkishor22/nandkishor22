@@ -4,7 +4,7 @@
   <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/57/2c/19/572c1921557952edc061196b83b5b0d8.gif" style="backgraound-blend-mode: screen;">
 
 
-- 🔭 I’m currently working on **Shoping Website**
+- 🔭 I’m currently working on **Wealth**
 
 - 🌱 I’m currently learning **Oprating System,MySQL,AIML,Data Analysis,**
 
