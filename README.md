@@ -3,7 +3,14 @@
 </div>
 
 <h1 align="center">Hey 👋, I'm Nandkishor</h1>
-<h3 align="center">I am a Full Stack Web Developer</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=I+am+a+Full+Stack+Web+Developer;MERN+Stack+Specialist;Building+Wealth+Manager+App;Turning+Coffee+Into+Code;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nandkishor-mali-17b967326/" target="_blank">
@@ -43,7 +50,9 @@
 </p>
 
 <br>
-<hr>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 <br>
 
 <h3 align="center">🛠️ Technical Arsenal</h3>
@@ -100,18 +109,20 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<br>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandkishor22&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="180" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nandkishor22&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" height="180" alt="stats graph" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandkishor22&theme=dark&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF" height="180" alt="streak graph" />
+  <a href="https://github.com/nandkishor22">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandkishor22&theme=dark&hide_border=true&hide_title=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Profile Summary" />
+  </a>
 </div>
 
 <br>
-<hr>
 <br>
 
 <p align="center">
