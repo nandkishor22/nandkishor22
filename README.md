@@ -164,36 +164,12 @@ const nandkishor = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandkishor22&bg_color=1a1b27&color=6c63ff&line=6c63ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
-<br><br>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=nandkishor22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandkishor22&theme=tokyonight&hide_border=true&background=1A1B27&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=6C63FF" width="100%"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandkishor22&bg_color=1a1b27&color=6c63ff&line=6c63ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="80%"/>
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandkishor22&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6C63FF&text_color=FFFFFF&langs_count=8" width="48%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nandkishor22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nandkishor22&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6C63FF&text_color=FFFFFF&layout=compact" width="48%"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=nandkishor22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=1A1B27&title_color=6C63FF&text_color=FFFFFF" width="48%"/>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandkishor22&theme=github_dark"width="80%"/>
 </div>
-
 <br>
 
 ---
@@ -295,7 +271,3 @@ const nandkishor = {
 ### 🎯 "Code. Create. Innovate. Repeat." 🚀
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let's%20Build%20Something%20Amazing%20Together!&descSize=16&descAlignY=85" width="100%"/>
-
-</div>
