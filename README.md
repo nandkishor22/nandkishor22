@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Nandkishor;Full+Stack+Developer+%F0%9F%92%BB;AI+Integration+Specialist+%F0%9F%A4%96;MERN+Stack+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Nandkishor;ECE+Student+%F0%9F%8E%93;Software+Developer+%F0%9F%92%BB;Linux+User+%F0%9F%90%A7;Full+Stack+%2B+AI+Integration+%F0%9F%A4%96;Where+Electronics+Meets+Code+%E2%9A%A1" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
@@ -19,22 +19,27 @@
 const nandkishor = {
     pronouns: "He" | "Him",
     location: "India 🇮🇳",
+    education: "B.Tech — Electronics & Communication Engineering (ECE) 🎓",
+    role: "Software Developer 💻",
+    os: "Linux 🐧",
     currentFocus: "Building Wealth 💰",
     projectDescription: "AI-Powered Personal Finance Manager",
     askMeAbout: [
         "MERN Stack",
-        "AI Integration", 
+        "AI Integration",
+        "Linux & Shell Scripting",
+        "Embedded Systems & Electronics",
         "Web Development",
-        "Problem Solving",
-        "System Design"
+        "Problem Solving"
     ],
     technologies: {
         frontEnd: ["React", "Next.js", "TailwindCSS"],
         backEnd: ["Node.js", "Express.js", "MongoDB"],
         ai_ml: ["TensorFlow", "OpenAI", "Python"],
-        tools: ["Docker", "Git", "AWS", "Postman"]
+        electronics: ["C/C++", "Arduino", "Digital Electronics", "Embedded Systems"],
+        tools: ["Linux", "Bash", "Git", "Docker", "AWS", "Postman"]
     },
-    funFact: "I turn coffee into code ☕ → 💻",
+    funFact: "I turn coffee into code ☕ → 💻 (and sometimes into circuits ⚡)",
     contactMe: "malinandkishor22@gmail.com"
 };
 ```
@@ -54,16 +59,17 @@ const nandkishor = {
 <br>
 <em>AI-Powered Personal Finance Manager</em>
 <br><br>
-<sub>Revolutionizing personal finance with intelligent insights and automation</sub>
+<sub>Revolutionizing personal finance with intelligent insights and automation Working </sub>
 </td>
 <td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGF2NDV3ajlxc3dqOTJwM3ZybGxqMmwwam9iajBiZ3l5d2tqNWl5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mFDWuDppjQJjite6FS/giphy.webp" width="240"/>
 <br><br>
 <strong>🌱 Learning Journey</strong>
 <br>
-<em>Continuous Growth & Development</em>
+<em>ECE Fundamentals + Software Engineering</em>
 <br><br>
-<sub>Exploring cutting-edge technologies and building innovative solutions</sub>
+<sub>Exploring embedded systems, Linux internals, System Design and IOT
+</sub>
 </td>
 </tr>
 </table>
@@ -72,8 +78,6 @@ const nandkishor = {
 
 <br>
 
-
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Technical Arsenal
 
@@ -121,6 +125,7 @@ const nandkishor = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 </div>
 </details>
@@ -135,6 +140,33 @@ const nandkishor = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🐧 Linux & Systems</b></summary>
+<br>
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🔌 Electronics & Embedded (ECE)</b></summary>
+<br>
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </div>
 </details>
@@ -168,14 +200,11 @@ const nandkishor = {
 
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandkishor22&theme=github_dark"width="80%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandkishor22&theme=github_dark" width="80%"/>
 </div>
 <br>
 
 ---
-<br>
-
-
 <br>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35"> Let's Connect & Collaborate!
@@ -271,3 +300,4 @@ const nandkishor = {
 ### 🎯 "Code. Create. Innovate. Repeat." 🚀
 
 <br>
+</div>
